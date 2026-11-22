@@ -11,6 +11,8 @@ export const dict = {
     readMore: "อ่านบทความ",
     count : "นับเลข",
     hell : "สวัสดี",
+    weather : "อากาศ",
+    todos : "งาน",
   },
   en: {
     home: "Home",
@@ -19,6 +21,8 @@ export const dict = {
     hello: "Hello! Welcome to MyWeb",
     readMore: "Read posts",
     count : "Count",
-    hell : "Hello"
+    hell : "Hello",
+    weather : "Weather",
+    todos : "Todos",
   },
 };
