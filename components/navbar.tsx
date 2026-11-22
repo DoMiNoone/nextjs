@@ -13,6 +13,9 @@ export default function Navbar() {
     { href: "/posts", label: t.posts },
     { href: "/count", label: t.count },
     { href: "/hello", label: t.hell },
+    { href: "/weather", label: t.weather },
+    { href: "/todos", label: t.todos },
+    
   ];
 
   return (
